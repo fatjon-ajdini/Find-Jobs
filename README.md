@@ -3,13 +3,13 @@ A React project built with Vite, featuring a frontend and backend server.
 Setup
 
 Clone the repo:
-\*\*git clone https://github.com/your-username/Find-Jobs.git
+git clone https://github.com/your-username/Find-Jobs.git
 
 Navigate to the project folder:
-\*\*cd Find-Jobs
+cd Find-Jobs
 
 Install dependencies:
-\*\*npm install
+npm install
 
 Running the Project
 
